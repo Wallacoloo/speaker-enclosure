@@ -29,7 +29,7 @@ height_to_plate = 52.8;
 plate_thickness = 5.5;
 
 // enclosure settings
-wall_thickness = 7;
+wall_thickness = 6;
 // make the sphere larger to accomodate the speaker's guts
 radial_padding = 10;
 // maximum thickness of wire to support for wire routing
